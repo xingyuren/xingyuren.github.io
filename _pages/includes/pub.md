@@ -34,7 +34,7 @@ Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Zhengqin Xu, Di Xu, changpen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FG 2023</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FG 2023</div><img src='images/pbidr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Facial Geometric Detail Recovery via Implicit Representation](https://arxiv.org/abs/2203.09692) \\
