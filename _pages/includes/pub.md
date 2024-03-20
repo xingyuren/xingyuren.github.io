@@ -17,7 +17,7 @@
 [3D-Aware Face Editing via Warping-Guided Latent Direction Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.pdf) \\
 Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Zhengqin Xu, Di Xu, changpeng yang, Yichao Yan
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**](https://cyh-sj.github.io/FaceEdit3D/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
@@ -40,7 +40,7 @@ Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Zhengqin Xu, Di Xu, changpen
 [Facial Geometric Detail Recovery via Implicit Representation](https://arxiv.org/abs/2203.09692) \\
 **Xingyu Ren**, Alexandros Lattas, Baris Gecer, Jiankang Deng, Chao Ma, Xiaokang Yang, Stefanos Zafeiriou
 
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+[**Project**](https://xingyuren.github.io/pbidr/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
   - This work is included by famous open-source projects, [InsightFace/reconstruction/pbidr ![](https://img.shields.io/github/stars/deepinsight/insightface?style=social)](https://github.com/deepinsight/insightface/tree/master/reconstruction/PBIDR).
 </div>
 </div>
