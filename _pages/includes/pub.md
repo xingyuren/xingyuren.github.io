@@ -1,7 +1,7 @@
 # 📝 Publications
 \* Equal Contribution
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/topo4d.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/topo4d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture \\
@@ -10,7 +10,7 @@ Xuanchen Li\*, Yuhao Cheng\*, **Xingyu Ren**, Haozhe Jia, Di Xu, Wenhan Zhu, Yic
 [**Project**](https://xuanchenli.github.io/Topo4D/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/id2reflectance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
