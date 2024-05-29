@@ -9,3 +9,6 @@
 
 # 💻 Internships
 - Cyberverse Lab, Huawei CBG, Shanghai.
+
+# Thanks for watching!
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=WO6qFSpsrUWuFJ2ZBizckVeLyIIjbxHz9H8qGUvzUVY&cl=ffffff&w=a"></script>
