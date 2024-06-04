@@ -7,8 +7,7 @@
 [Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture](https://xuanchenli.github.io/Topo4D/static/papers/Topo4D.pdf) \\
 Xuanchen Li\*, Yuhao Cheng\*, **Xingyu Ren**, Haozhe Jia, Di Xu, Wenhan Zhu, Yichao Yan
 
-[**Project**](https://xuanchenli.github.io/Topo4D/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
+[**Project**](https://xuanchenli.github.io/Topo4D/), [**Arxiv**](https://arxiv.org/abs/2406.00440)
 </div>
 </div>
 
