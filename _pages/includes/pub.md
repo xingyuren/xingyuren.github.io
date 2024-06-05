@@ -51,7 +51,7 @@ Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Zhengqin Xu, Di Xu, changpen
 [Facial Geometric Detail Recovery via Implicit Representation](https://arxiv.org/abs/2203.09692) \\
 **Xingyu Ren**, Alexandros Lattas, Baris Gecer, Jiankang Deng, Chao Ma, Xiaokang Yang, Stefanos Zafeiriou
 
-[**Project**](https://xingyuren.github.io/pbidr/), [**Arxiv**](https://arxiv.org/abs/2203.09692), [**Video**](https://www.youtube.com/watch?v=d79P6koYTXY)
+[**Project**](https://xingyuren.github.io/pbidr/), [**Arxiv**](https://arxiv.org/abs/2203.09692), [**Video**](https://www.youtube.com/watch?v=d79P6koYTXY), [**PPT**](images/pbidr/PPT-FacialDetailsRecovery.pdf)
   - This work is included by famous open-source projects, [InsightFace/reconstruction/pbidr ![](https://img.shields.io/github/stars/deepinsight/insightface?style=social)](https://github.com/deepinsight/insightface/tree/master/reconstruction/PBIDR).
 </div>
 </div>
