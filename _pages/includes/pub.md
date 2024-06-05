@@ -39,7 +39,7 @@ Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Zhengqin Xu, Di Xu, changpen
 [Improving Fairness in Facial Albedo Estimation via Visual-Textual Cues](https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Improving_Fairness_in_Facial_Albedo_Estimation_via_Visual-Textual_Cues_CVPR_2023_paper.pdf) \\
 **Xingyu Ren**, Jiankang Deng, Chao Ma, Yichao Yan, Xiaokang Yang 
 
-[**Project**](https://xingyuren.github.io/id2albedo/), [**Video**](https://www.youtube.com/watch?v=2XvqhwWWBsI), [**Poster**](images/id2albedo/poster.png), [**PPT**](images/id2albedo/PPT-CVPR23-Albedo Reconstruction.pdf)
+[**Project**](https://xingyuren.github.io/id2albedo/), [**Video**](https://www.youtube.com/watch?v=2XvqhwWWBsI), [**Poster**](images/id2albedo/poster.png), [**PPT**](images/id2albedo/PPT-CVPR23-AlbedoReconstruction.pdf)
   - This work is recommended as CVPR **highlight** !!
 </div>
 </div>
