@@ -17,7 +17,7 @@ Xuanchen Li\*, Yuhao Cheng\*, **Xingyu Ren**, Haozhe Jia, Di Xu, Wenhan Zhu, Yic
 [Monocular Identity-Conditioned Facial Reflectance Reconstruction](https://arxiv.org/pdf/2404.00301.pdf) \\
 **Xingyu Ren**, Jiankang Deng, Yuhao Cheng, Jia Guo, Chao Ma, Yichao Yan, Wenhan Zhu, Xiaokang Yang
 
-[**Project**](https://xingyuren.github.io/id2reflectance/), [**Arxiv**](https://arxiv.org/abs/2404.00301), [**Video**](https://www.youtube.com/watch?v=LUpP089LO8E)
+[**Project**](https://xingyuren.github.io/id2reflectance/), [**Arxiv**](https://arxiv.org/abs/2404.00301), [**Video**](https://www.youtube.com/watch?v=LUpP089LO8E), [**Poster**](https://github.com/xingyuren/xingyuren.github.io/blob/main/images/id2reflectance/poster-hq.png), [**PPT**](https://github.com/xingyuren/xingyuren.github.io/blob/main/images/id2reflectance/PPT-CVPR24-Reflectance-EN.pdf)
 
 </div>
 </div>
