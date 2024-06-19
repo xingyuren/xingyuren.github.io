@@ -10,7 +10,6 @@ Zimin Ran, **Xingyu Ren**, Xiang An, Kaicheng Yang, Xiangzi Dai, Ziyong Feng, Ji
 </div>
 
 \* Equal Contribution
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/topo4d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
