@@ -1,6 +1,4 @@
 # 📝 Publications
-\* Equal Contribution
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/hifialbedo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -10,6 +8,8 @@ Zimin Ran, **Xingyu Ren**, Xiang An, Kaicheng Yang, Xiangzi Dai, Ziyong Feng, Ji
 [**Project**](https://hifialbedo.github.io/), [**Arxiv**](https://arxiv.org/abs/2406.xxxxx)
 </div>
 </div>
+
+\* Equal Contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/topo4d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
