@@ -5,7 +5,7 @@
 [High-Fidelity Facial Albedo Estimation via Texture Quantization](https://github.com/xingyuren/xingyuren.github.io/releases/download/paper-hifialbedo/hifialbedo.pdf) \\
 Zimin Ran, **Xingyu Ren**, Xiang An, Kaicheng Yang, Xiangzi Dai, Ziyong Feng, Jia Guo, Linchao Zhu, Jiankang Deng
 
-[**Project**](https://hifialbedo.github.io/), [**Arxiv**](https://arxiv.org/abs/2406.xxxxx)
+[**Project**](https://hifialbedo.github.io/), [**Arxiv**](https://arxiv.org/abs/2406.13149)
 </div>
 </div>
 
