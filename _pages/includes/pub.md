@@ -23,10 +23,10 @@ Xuanchen Li\*, Yuhao Cheng\*, **Xingyu Ren**, Haozhe Jia, Di Xu, Wenhan Zhu, Yic
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/id2reflectance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Monocular Identity-Conditioned Facial Reflectance Reconstruction](https://arxiv.org/pdf/2404.00301.pdf) \\
+[Monocular Identity-Conditioned Facial Reflectance Reconstruction](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Monocular_Identity-Conditioned_Facial_Reflectance_Reconstruction_CVPR_2024_paper.pdf) \\
 **Xingyu Ren**, Jiankang Deng, Yuhao Cheng, Jia Guo, Chao Ma, Yichao Yan, Wenhan Zhu, Xiaokang Yang
 
-[**Project**](https://xingyuren.github.io/id2reflectance/), [**Arxiv**](https://arxiv.org/abs/2404.00301), [**Video**](https://www.youtube.com/watch?v=LUpP089LO8E), [**Poster**](images/id2reflectance/poster-hq.png), [**PPT**](images/id2reflectance/PPT-CVPR24-Reflectance-EN.pdf)
+[**Project**](https://xingyuren.github.io/id2reflectance/), [**Code**](https://github.com/xingyuren/id2reflectance), [**Video**](https://www.youtube.com/watch?v=LUpP089LO8E), [**Poster**](images/id2reflectance/poster-hq.png), [**PPT**](images/id2reflectance/PPT-CVPR24-Reflectance-EN.pdf)
 
 </div>
 </div>
