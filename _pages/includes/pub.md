@@ -1,4 +1,15 @@
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://arxiv.org/abs/2412.14453) \\
+Shengqi Liu, Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
+
+[**Project**](https://shengqiliu1.github.io/SewingLDM/), [**Arxiv**](https://arxiv.org/abs/2412.14453))
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/hifialbedo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
