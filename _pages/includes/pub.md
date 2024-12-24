@@ -6,7 +6,7 @@
 [Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://arxiv.org/abs/2412.14453) \\
 Shengqi Liu, Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
 
-[**Project**](https://shengqiliu1.github.io/SewingLDM/), [**Arxiv**](https://arxiv.org/abs/2412.14453))
+[**Project**](https://shengqiliu1.github.io/SewingLDM/), [**Arxiv**](https://arxiv.org/abs/2412.14453)
 </div>
 </div>
 
