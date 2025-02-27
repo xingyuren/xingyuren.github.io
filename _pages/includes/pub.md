@@ -1,5 +1,28 @@
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/s3face.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors \\
+**Xingyu Ren**, Jiankang Deng, Yuhao Cheng, Wenhan Zhu, Yichao Yan, Xiaokang Yang, Stefanos Zafeiriou, Chao Ma
+
+[**Project**](https://), [**Arxiv**](https://arxiv.org/abs/2412.XXXXX)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/textalker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture \\
+Xuanchen Li, Jianyu Wang, Yuhao Cheng, Yikun Zeng, **Xingyu Ren**, Wenhan Zhu, Weiming Zhao, Yichao Yan 
+
+[**Project**](https://), [**Arxiv**](https://arxiv.org/abs/2412.xxxxx)
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
