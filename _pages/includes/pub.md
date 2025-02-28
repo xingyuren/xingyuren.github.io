@@ -1,6 +1,6 @@
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/s3face.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/s3face.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors \\
@@ -11,7 +11,7 @@ S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/textalker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/textalker.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture \\
