@@ -17,7 +17,7 @@ S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors \\
 Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture \\
 Xuanchen Li, Jianyu Wang, Yuhao Cheng, Yikun Zeng, **Xingyu Ren**, Wenhan Zhu, Weiming Zhao, Yichao Yan 
 
-[**Project**](https://), [**Arxiv**](https://arxiv.org/abs/2412.xxxxx)
+[**Project**](https://xuanchenli.github.io/TexTalk/), [**Arxiv**](https://arxiv.org/abs/2503.00495)
 </div>
 </div>
 
