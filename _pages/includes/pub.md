@@ -6,7 +6,7 @@
 S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors \\
 **Xingyu Ren**, Jiankang Deng, Yuhao Cheng, Wenhan Zhu, Yichao Yan, Xiaokang Yang, Stefanos Zafeiriou, Chao Ma
 
-[**Project**](https://), [**Arxiv**](https://arxiv.org/abs/2412.XXXXX)
+[**Project**](https://xingyuren.github.io/s3face/), [**Arxiv**](https://arxiv.org/abs/2412.XXXXX)
 </div>
 </div>
 
