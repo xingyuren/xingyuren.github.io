@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2020.09 - Now*, Doctor, Shanghai Jiao Tong Univeristy, Shanghai.
+- *2020.09 - 2025.06*, Doctor, Shanghai Jiao Tong Univeristy, Shanghai.
 - *2018.09 - 2020.08*, Master, Shanghai Jiao Tong Univeristy, Shanghai.
 - *2012.09 - 2016.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
