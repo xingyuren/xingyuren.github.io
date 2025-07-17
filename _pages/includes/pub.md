@@ -1,4 +1,23 @@
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/hifialbedo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HUST: High-Fidelity Unbiased Skin Tone Estimation via Texture Quantization](https://github.com/xingyuren/xingyuren.github.io/releases/download/paper-hifialbedo/hifialbedo.pdf) \\
+Zimin Ran, **Xingyu Ren**, Xiang An, Kaicheng Yang, Ziyong Feng, Jing Yang, Rolandos Alexandros Potamias, Linchao Zhu, Jiankang Deng
+
+[**Project**](https://hifialbedo.github.io/), [**Arxiv**](https://arxiv.org/abs/2406.13149)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://arxiv.org/abs/2412.14453) \\
+Shengqi Liu, Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
+
+[**Project**](https://shengqiliu1.github.io/SewingLDM/), [**Arxiv**](https://arxiv.org/abs/2412.14453)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/s3face.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -21,27 +40,6 @@ Xuanchen Li, Jianyu Wang, Yuhao Cheng, Yikun Zeng, **Xingyu Ren**, Wenhan Zhu, W
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/sewingldm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://arxiv.org/abs/2412.14453) \\
-Shengqi Liu, Yuhao Cheng, Zhuo Chen, **Xingyu Ren**, Wenhan Zhu, Lincheng Li, Mengxiao Bi, Xiaokang Yang, Yichao Yan
-
-[**Project**](https://shengqiliu1.github.io/SewingLDM/), [**Arxiv**](https://arxiv.org/abs/2412.14453)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/hifialbedo.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[High-Fidelity Facial Albedo Estimation via Texture Quantization](https://github.com/xingyuren/xingyuren.github.io/releases/download/paper-hifialbedo/hifialbedo.pdf) \\
-Zimin Ran, **Xingyu Ren**, Xiang An, Kaicheng Yang, Xiangzi Dai, Ziyong Feng, Jia Guo, Linchao Zhu, Jiankang Deng
-
-[**Project**](https://hifialbedo.github.io/), [**Arxiv**](https://arxiv.org/abs/2406.13149)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/topo4d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
